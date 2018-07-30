@@ -1,4 +1,4 @@
-# Distributed_file_system
+# Distributed_File_System
 Distributed file system for reliable and secure file storage.
 
 ---------------------------------------------------------------------------------------------------
